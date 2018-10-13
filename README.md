@@ -1,6 +1,8 @@
 Did You Feel It? App
 ====================
 
+[![GuardRails badge](https://badges.production.guardrails.io/bennythejudge/ud843_DidYouFeelIt.svg)](https://www.guardrails.io)
+
 This app displays the perceived strength of a single earthquake
 event based on the DYFI indicator.
 Used in a Udacity course in the Android Basics Nanodegree.
